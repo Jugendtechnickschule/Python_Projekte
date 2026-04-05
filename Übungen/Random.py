@@ -7,6 +7,4 @@ print(s)
 x = random.randint(1, 100)
 print(x)
 
-y = random.random()
-print(y)
-
+print(random.randint(1, 100))

@@ -1,5 +1,3 @@
-import random
-
 class bluebrint_auto():
     """Klasse für Autos"""
 
